@@ -1,12 +1,12 @@
 {
-  "name": "KHAN-MD",
+  "name": "DARK-NICK",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By JawadTechX",
+  "description": "A WhatsApp Bot Created By Darknick",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KHAN-MD",
-    "stop": "pm2 stop KHAN-MD",
-    "restart": "pm2 restart KHAN-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name DARK-NICK",
+    "stop": "pm2 stop DARK-NICK",
+    "restart": "pm2 restart DARK-NICK"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "7.0.0",
