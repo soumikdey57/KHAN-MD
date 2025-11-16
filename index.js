@@ -6,6 +6,6 @@
 
 // Thanks For Chosing DARK NICK BOT 🔥
 
-// Made with ♥️ By JawadTech 
+// Made with ♥️ By DARK GANG USER DARK NICK 
 
 // Powered By DARK NICK OWN BOT 2025 🚀
