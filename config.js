@@ -11,12 +11,12 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
     // ===== BOT CORE SETTINGS =====
     SESSION_ID: process.env.SESSION_ID || "IK~fA0gjQBI#eoPqZty-SLT7Mr21E7cdvSRtl7XClp3gfnqM7StNN4o",  // Your bot's session ID (keep it secure)
-    XDEV: process.env.XDEV || "",  // Github Username 
+    XDEV: process.env.XDEV || "darknick40",  // Github Username 
     PREFIX: getConfig("PREFIX") || ".",  // Command prefix (e.g., "., / ! * - +")
     CHATBOT: getConfig("CHATBOT") || "off", // on/off chat bot 
     BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "DARK NICK",  // Bot's display name
     MODE: getConfig("MODE") || process.env.MODE || "Private",        // Bot mode: public/private/group/inbox
-    REPO: process.env.REPO || "https://github.com/JawadTechXD/KHAN-MD",  // Bot's GitHub repo
+    REPO: process.env.REPO || "https://github.com/darknick40/DARK-NICK",  // Bot's GitHub repo
     BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",  // Bot's BAILEYS
 
     // ===== OWNER & DEVELOPER SETTINGS =====
